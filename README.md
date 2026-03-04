@@ -1,4 +1,4 @@
-# Hi, I'm Joshua 👋
+#I'm Josh, 👋
 
 🎓 MS Business Analytics — UT Austin
 📊 Focused on financial engineering, optimization systems, and machine learning applications

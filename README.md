@@ -1,28 +1,30 @@
-## I'm Josh, 👋
+## I'm Josh,
 
-🎓 MS Business Analytics — UT Austin
-📊 Focused on financial engineering, optimization systems, and machine learning applications
-💻 I build portfolio analytics tools, ML models, and production-style data apps
+• MS Business Analytics — UT Austin
+
+• Focused on financial engineering, optimization systems, and machine learning applications
+
+• I build portfolio analytics tools, ML models, and production-style data apps
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📈 Portfolio TLH Optimizer
+### Portfolio TLH Optimizer
 
 Interactive portfolio optimization engine with tax-loss harvesting, rebalancing logic, and financial analytics built in Python + Streamlit
 
-### 🧮 Financial Analytics Models
+### Financial Analytics Models
 
 Collection of portfolio return engines, financial simulations, and analytics tooling for investment analysis
 
-### 🕸 Email Network Scraper
+### Email Network Scraper
 
 Python Selenium-based scraper that extracts communication metadata and builds graph-ready datasets for network analysis
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:** Python, SQL
 **Data & Analytics:** Pandas, NumPy, Optimization, Statistical Modeling
@@ -31,10 +33,6 @@ Python Selenium-based scraper that extracts communication metadata and builds gr
 
 ---
 
-## 📫 Connect
+## Connect
 
 LinkedIn: https://linkedin.com/in/joshuaringler
-
----
-
-⭐ Always building new finance + analytics systems

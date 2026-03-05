@@ -9,6 +9,8 @@
 ---
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jringler30&theme=tokyonight" alt="mystreak"/>
 
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+
 ---
 
 ## Featured Projects

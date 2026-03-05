@@ -36,3 +36,6 @@ Python Selenium-based scraper that extracts communication metadata and builds gr
 ## Connect
 
 LinkedIn: https://linkedin.com/in/joshuaringler
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>

@@ -8,6 +8,7 @@
 
 ---
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jringler30&theme=tokyonight" alt="mystreak"/>
+
 ---
 
 ## Featured Projects

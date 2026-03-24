@@ -2,9 +2,9 @@
 
 • MS Business Analytics — UT Austin
 
-• Focused on financial engineering, optimization systems, and machine learning applications
+• Focused on data engineering, optimization systems, and machine learning applications
 
-• I build portfolio analytics tools, ML models, and production-style data apps
+• I build analytic tools, ML models, and production-style data apps
 
 ---
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jringler30&theme=tokyonight" alt="mystreak"/>

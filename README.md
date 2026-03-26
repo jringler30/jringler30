@@ -17,9 +17,9 @@
 
 Interactive portfolio optimization engine with tax-loss harvesting, rebalancing logic, and financial analytics built in Python + Streamlit
 
-### Financial Analytics Models
+### Mini ERP Order-to-Cash System
 
-Collection of portfolio return engines, financial simulations, and analytics tooling for investment analysis
+Built a full O2C ERP system from scratch — relational database design, ETL pipeline into a star schema analytics layer, SQL analytics, and a 5-page Streamlit dashboard covering sales, operations, invoicing, and inventory
 
 ### Email Network Scraper
 

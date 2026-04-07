@@ -1,41 +1,70 @@
-## I'm Josh,
+# Hi, I’m Josh Ringler 👋
 
-• MS Business Analytics — UT Austin
+I build **data engineering and analytics systems for finance** — from ingestion pipelines and warehouse modeling to optimization and decision-ready dashboards.
 
-• Focused on data engineering, optimization systems, and machine learning applications
-
-• I build analytic tools, ML models, and production-style data apps
-
----
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jringler30&theme=tokyonight" alt="mystreak"/>
+- 🎓 MS in Business Analytics, UT Austin  
+- 🧱 Focus: data engineering, financial data platforms, portfolio analytics, and applied ML  
+- ⚙️ Interests: reliable ETL/ELT, dimensional modeling, forecasting, risk-aware optimization, and production-style analytics apps
 
 ---
 
-## Featured Projects
+## What I’m Building
 
-### Portfolio TLH Optimizer
+### 1) Portfolio TLH Optimizer
+A portfolio optimization engine focused on **tax-loss harvesting**, rebalancing constraints, and scenario analysis.
 
-Interactive portfolio optimization engine with tax-loss harvesting, rebalancing logic, and financial analytics built in Python + Streamlit
+**Highlights**
+- Constraint-based optimization workflow for allocation decisions
+- Tax-aware rebalancing logic and portfolio health metrics
+- Streamlit front end for interactive analysis and what-if testing
 
-### Mini ERP Order-to-Cash System
+### 2) Order-to-Cash Data Platform (Mini ERP)
+A full O2C analytics system built end-to-end with a strong data engineering backbone.
 
-Built a full O2C ERP system from scratch — relational database design, ETL pipeline into a star schema analytics layer, SQL analytics, and a 5-page Streamlit dashboard covering sales, operations, invoicing, and inventory
+**Highlights**
+- Relational operational schema for transactional workflows
+- ETL pipeline into a **star schema** analytics layer
+- KPI-ready SQL models for sales, invoicing, inventory, and operations
+- Multi-page Streamlit dashboard for business monitoring and drill-down
 
-### Email Network Scraper
+### 3) Communication Network Data Pipeline
+Automated extraction and transformation pipeline for network analysis datasets.
 
-Python Selenium-based scraper that extracts communication metadata and builds graph-ready datasets for network analysis
+**Highlights**
+- Selenium-based ingestion of communication metadata
+- Data cleaning + transformation into graph-friendly structures
+- Enables downstream centrality and relationship analytics
 
 ---
 
-## Tech Stack
+## Data Engineering & Finance Toolkit
 
-**Languages:** Python, SQL
-**Data & Analytics:** Pandas, NumPy, Optimization, Statistical Modeling
-**Apps & Tools:** Streamlit, GitHub, Google Colab, Snowflake
-**Methods:** Portfolio Optimization, Machine Learning, Data Engineering
+**Core Languages**  
+Python, SQL
+
+**Data Engineering**  
+ETL/ELT pipelines, data modeling, star schemas, analytical SQL, data quality checks
+
+**Finance & Analytics**  
+Portfolio optimization, tax-loss harvesting logic, scenario analysis, statistical modeling, machine learning
+
+**Platform & Delivery**  
+Streamlit, Snowflake, GitHub, Google Colab
+
+---
+
+## Current Focus
+
+- Building robust data workflows for financial analytics use cases
+- Improving observability, data validation, and model reliability in end-to-end pipelines
+- Expanding reusable components for portfolio/risk analytics applications
 
 ---
 
 ## Connect
 
-LinkedIn: https://linkedin.com/in/joshuaringler
+- LinkedIn: [linkedin.com/in/joshuaringler](https://linkedin.com/in/joshuaringler)
+
+---
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jringler30&theme=tokyonight" alt="GitHub streak stats"/>
